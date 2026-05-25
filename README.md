@@ -116,7 +116,7 @@ Customer analytics platform using Azure, Snowflake, SQL, and Power BI.
 
 - 💼 LinkedIn
 - 💻 GitHub
-- 📧 bharathreddysm07@gmail.com
+- 📧 bharathr2170@gmail.com
 
 ---
 
