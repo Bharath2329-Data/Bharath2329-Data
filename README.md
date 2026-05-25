@@ -75,36 +75,10 @@ Customer analytics platform using Azure, Snowflake, SQL, and Power BI.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bharath2329-Data&show_icons=true&theme=radical"/>
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath2329-Data&layout=compact&theme=radical"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=Bharath2329-Data&theme=radical"/>
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath2329-Data&layout=compact&theme=tokyonight" />
-
 </p>
 
 ---
