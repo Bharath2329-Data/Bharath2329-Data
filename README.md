@@ -20,6 +20,9 @@ Passionate Data Engineer focused on building scalable cloud-based data pipelines
 ---
 
 # 🛠️ Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,aws,azure,git,github,vscode,postgresql" />
+</p>
 
 ## ☁️ Cloud Platforms
 - Microsoft Azure
@@ -72,12 +75,26 @@ Customer analytics platform using Azure, Snowflake, SQL, and Power BI.
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharath2329-Data&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bharath2329-Data&show_icons=true&theme=tokyonight" />
+---
 
+# 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath2329-Data&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bharath2329-Data&theme=tokyonight" />
 </p>
 
 ---
