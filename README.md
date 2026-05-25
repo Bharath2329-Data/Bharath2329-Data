@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bharath Reddy</h1>
 
-<h3 align="center">🚀 Data Engineer | Azure | AWS | Snowflake | Databricks | PySpark</h3>
+<h3 align="center"> Data Engineer | Azure | AWS | Snowflake | Databricks | PySpark</h3>
 
 <p align="center">
 Passionate Data Engineer focused on building scalable cloud-based data pipelines, modern data platforms, and analytics solutions using Azure, AWS, Snowflake, Databricks, SQL, and Power BI.
