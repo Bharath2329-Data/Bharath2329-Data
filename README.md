@@ -14,7 +14,6 @@ Passionate Data Engineer focused on building scalable cloud-based data pipelines
 
 # 🔥 About Me
 
-- 📍 Based in Dallas, TX
 - ☁️ Azure & AWS Data Engineering Enthusiast
 - 📊 Building Real-Time & Batch ETL Pipelines
 - 🚀 Passionate about Data Warehousing & Analytics
